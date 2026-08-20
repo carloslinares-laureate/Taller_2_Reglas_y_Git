@@ -1,0 +1,194 @@
+﻿id_cliente,nombre,email,telefono,fecha_nacimiento,ciudad,fecha_registro,monto_compra_total,num_compras,canal_registro
+28,Raul Vargas,raul.vargas@correo.com,928024248,1971-02-04,Trujillo,18/03/2026,1261.95,20.0,App
+33,Sergio Perez,sergio.perez@correo.com,934073380,2002-06-26,Cusco,26/11/2024,3895.08,8.0,Tienda fisica
+40,Sofia Vargas,sofia.vargas@correo.com,948508907,1968-07-26,LIMA,20/11/2025,1484.01,15.0,Telefono
+70,Jorge Perez,jorge.perez@correo.com,+51 92325893,1955-07-15,Piura,20/08/2026,1346.1,8.0,Tienda fisica
+20,Rosa Sanchez,rosa.sanchez@correo.com,928814949,1982-03-09,piura,08/02/2024,2021.93,18.0,Web
+94,Gabriela Martinez,gabriela.martinez@correo.com,,2005-08-02,Chiclayo,12/12/2025,634.78,10.0,Tienda fisica
+54,Monica Torres,monica.torres@correo.com,991321540,1993-12-23,Trujillo,25/03/2021,4343.01,4.0,Web
+91,Fernando Castillo,fernando.castillo@correo.com,943567615,2031-01-15,trujillo,28/08/2024,524.61,13.0,Tienda fisica
+107,Jose Morales,jose.morales@correo.com,924490391,1986-12-15,Cuzco,03/06/2021,2756.92,3.0,App
+117,Diego Jimenez,diego.jimenez@correo.com,946663833,1968-09-04,Cuzco,14/02/2023,1310.45,22.0,Telefono
+55,Hector Flores,,963238057,2000-04-03,piura,23/11/2025,1130.68,23.0,Tienda fisica
+48,Rosa Cruz,rosa.cruz@correo.com,912621534,2003-10-13,cusco,01/06/2024,1378.83,13.0,Telefono
+81,Ricardo Morales,ricardo.morales@correo.com,971308842,1990-03-13,Cusco,20/09/2022,3371.0,5.0,Web
+39,Patricia Diaz,patricia.diaz@correo.com,984411983,1963-04-14,chiclayo,13/11/2026,3379.2,6.0,Tienda fisica
+31,Ana Gonzalez,ana.gonzalez@correo.com,959555330,1992-09-05,Piura,05/01/2024,1421.75,2.0,Tienda fisica
+38,Fernando Cruz,fernando.cruz@correo.com,993638503,1975-11-28,LIMA,24/05/2021,2306.7,22.0,Telefono
+101,Lucia Rodriguez,lucia.rodriguez@correo.com,939161443,1983-08-08,chiclayo,04/11/2023,1684.64,21.0,Tienda fisica
+130,LUIS VARGAS,luis.vargas@correo.com,+51 96811015,1971-12-28,chiclayo,20/03/2026,1533.46,19.0,App
+174,Monica Castillo,monica.castillo@correo.com,912232974,1978-06-22,trujillo,14/10/2021,1419.17,24.0,Web
+157,Sergio Gomez,sergio.gomez@correo.com,926288992,1967-03-08,Piura,01/06/2024,2515.4,12.0,Telefono
+18,Victor Castillo,victor.castillo@correo.com,942614537,2005-08-26,piura,07/02/2024,481.34,14.0,Tienda fisica
+24,Cesar Perez,cesar.perez@correo.com,919121552,1998-04-13, Lima,19/04/2021,2626.19,2.0,Web
+110,Patricia Cruz,patricia.cruz@correo.com,960237832,1964-11-16,trujillo,03/02/2021,464.87,4.0,Tienda fisica
+146,Karen Reyes,karen.reyes@correo.com,994790150,1966-03-03,,25/08/2026,214.58,7.0,Web
+21,Jose Vargas,jose.vargas@correo.com,941726318,1965-07-16,Lima,07/07/2024,4065.87,6.0,Telefono
+61,Victor Cruz,victor.cruz@correo.com,942255732,1999-08-21,cusco,16/08/2026,3578.55,3.0,Tienda fisica
+161,Fernando Ortiz,fernando.ortiz@correo.com,943635675,1967-11-18,Trujillo,05/11/2023,1397.57,18.0,Web
+32,Rosa Ramirez,rosa.ramirez@correo.com,957469942,2004-09-28,Chiclayo,20/12/2024,737.76,8.0,App
+78,Ricardo Rodriguez,ricardo.rodriguez@correo.com,958557203,1994-08-21,AREQUIPA,25/01/2024,955.83,18.0,App
+27,Diana Lopez,diana.lopez@correo.com,948250360,1965-08-27,arequipa,23/05/2025,2771.97,21.0,Web
+68,Jorge Martinez,jorge.martinez@correo.com,991378577,1993-10-08,piura,13/08/2025,4092.84,10.0,Telefono
+79,Hector Flores,hector.flores@correo.com,975056916,1962-01-21,cusco,26/04/2025,S/ 302.91,10.0,Web
+14,Jose Ramirez,jose.ramirez@correo.com,921496211,1899-05-20,Piura,25/09/2021,3457.96,5.0,Telefono
+172,Jose Rodriguez,jose.rodriguez@correo.com,954699966,2006-08-17,AREQUIPA,05/10/2024,4024.44,5.0,Tienda fisica
+70,Jorge Perez,jorge.perez@correo.com,931009452,1955-07-15,Piura,20/08/2026,1346.1,8.0,Tienda fisica
+141,DIANA LOPEZ,diana.lopez@correo.com,938944689,1964-09-24,LIMA,17/07/2025,S/ 157.68,10.0,App
+22,Maria Diaz,maria.diaz@correo.com,948285503,1982-12-24,trujillo,22/12/2025,2215.69,7.0,Tienda fisica
+29,Monica Rivera,monica.rivera@correo.com,995125977,1971-09-16,,28/01/2023,460.73,14.0,Tienda fisica
+85,Carmen Ortiz,carmen.ortiz@correo.com,923470708,1983-02-17,piura,01/12/2024,691.49,21.0,App
+171,Carmen Martinez,carmen.martinez@correo.com,+51 95825636,1990-06-25,Cuzco,07/10/2022,2315.6,17.0,Web
+26,Elena Rivera,elena.rivera@correo.com,971510041,1994-10-04,,18/04/2021,2301.19,5.0,Tienda fisica
+136,Sergio Morales,sergio.morales@correo.com,986560394,1983-08-25,arequipa,25/07/2023,2287.93,14.0,App
+45,Paola Reyes,paola.reyes@correo.com,983534128,1983-03-24,piura,15/05/2024,3395.41,21.0,Tienda fisica
+156,Ana Rivera,ana.rivera@correo.com,918715975,1990-09-10,chiclayo,28/03/2023,3217.55,23.0,App
+52,Paola Cruz,paola.cruz@correo.com,973123515,1956-12-18,Trujillo,12/04/2021,2943.14,25.0,Web
+16,Elena Ortiz,elena.ortiz@correo.com,943273328,1969-02-11,Cusco,19/09/2021,1074.01,8.0,Web
+7,Manuel Perez,,931931511,1984-07-09,,23/09/2026,1027.29,11.0,Web
+123,Valeria Ortiz,valeria.ortiz@correo.com,957123808,2001-11-27,arequipa,08/02/2022,701.68,7.0,App
+132,Raul Ortiz,raul.ortiz@correo.com,978248169,1978-01-12,Lima ,06/04/2023,1570.71,25.0,Telefono
+55,Hector Flores,hector.flores@correo.com,963238057,2000-04-03,piura,23/11/2025,1130.68,23.0,Tienda fisica
+135,Jose Cruz,jose.cruz@correo.com,969619341,1994-05-25,Trujillo,26/08/2026,1091.31,8.0,Tienda fisica
+96,Sergio Flores,sergio.flores@correo.com,925457816,1984-02-05,chiclayo,28/11/2022,3272.76,13.0,Tienda fisica
+72,Luis Vargas,,929997018,1972-03-03,AREQUIPA,06/05/2021,2697.95,19.0,Tienda fisica
+112,Cesar Rodriguez,cesar.rodriguez@correo.com,957197152,1961-10-17,trujillo,05/11/2022,2195.74,4.0,Tienda fisica
+98,Luis Ramirez,luis.ramirez@correo.com,993154172,1990-06-20,Cusco,21/02/2022,S/ 457.33,15.0,Tienda fisica
+131,Hector Gomez,hector.gomez@correo.com,927307598,1993-12-03,trujillo,18/07/2023,2913.55,11.0,App
+154,Gabriela Torres,gabriela.torres@correo.com,913478029,2002-03-16,Arequipa,13/09/2025,574.04,25.0,Tienda fisica
+158,Sergio Vargas,sergio.vargas@correo.com,921571646,1959-05-13,AREQUIPA,24/08/2026,2389.35,25.0,Telefono
+4,Luis Lopez,luis.lopezcorreo.com,958181396,1977-10-09,Cusco,24/08/2021,2436.22,13.0,Web
+56,Cesar Jimenez,cesar.jimenez@correo.com,915512205,1977-09-14,,12/02/2026,2301.53,11.0,Web
+10,Valeria Morales,valeria.morales@correo.com,924716857,1964-11-06,Lima,14/10/2026,332.7,13.0,Telefono
+122,Ricardo Castillo,ricardo.castillo@correo.com,920555833,1980-05-24,cusco,08/06/2023,-34.21,3.0,Web
+175,Manuel Morales,manuel.morales@correo.com,916892773,1992-08-06,Trujillo,21/12/2025,2807.82,13.0,App
+76,Diego Gomez,diego.gomez@correo.com,953091709,1997-02-28,Cuzco,11/07/2022,3136.85,10.0,Telefono
+106,Diego Reyes,diego.reyes@correo.com,970667140,1987-04-20,Trujillo,24/11/2021,2370.46,15.0,Web
+114,Manuel Torres,manuel.torres@correo.com,946677730,1899-05-20,lima,01/03/2023,3920.89,19.0,Telefono
+69,Miguel Castillo,miguel.castillo@correo.com,991823275,2002-02-25,Piura,21/04/2022,1227.68,3.0,App
+3,Jorge Reyes,jorge.reyes@correo.com,910872248,2003-03-23,piura,11/05/2024,741.88,25.0,Tienda fisica
+165,Patricia Jimenez,patricia.jimenez@correo.com,952857920,2001-06-13,arequipa,25/06/2022,2341.66,4.0,Tienda fisica
+169,Miguel Vargas,miguel.vargas@correo.com,967838146,1963-05-24,Lima,25/07/2023,1678.42,13.0,Web
+74,Diana Cruz,diana.cruz@correo.com,991029073,1971-01-03,chiclayo,22/10/2022,2662.7,1.0,Tienda fisica
+141,Diana Lopez,diana.lopez@correo.com,938944689,1964-09-24,,17/07/2025,544.78,10.0,App
+9,Carmen Torres,carmen.torres@correo.com,985345555,1989-05-24,Arequipa,14/10/2025,1827.33,8.0,App
+104,Paola Gonzalez,paola.gonzalezcorreo.com,947215199,1964-03-18,Piura,26/03/2023,539.17,1.0,App
+139,Ricardo Rodriguez,ricardo.rodriguez@correo.com,960192261,1970-07-03,cusco,08/01/2023,1468.15,4.0,Tienda fisica
+134,Diana Jimenez,diana.jimenez@correo.com,960562485,1964-03-06,AREQUIPA,25/10/2026,3650.24,6.0,Telefono
+44,Sergio Ortiz,sergio.ortiz@correo.com,984813739,1970-02-15,Cusco,26/08/2022,3020.72,18.0,Tienda fisica
+90,Jorge Reyes,jorge.reyes@correo.com,971682508,1971-11-01,chiclayo,10/11/2024,2482.36,3.0,Telefono
+37,Manuel Ortiz,manuel.ortiz@correo.com,987388337,1967-05-02,Lima ,14/01/2026,2363.65,18.0,App
+167,Cesar Perez,cesar.perez@correo.com,935479101,2031-01-15,trujillo,15/08/2025,3961.89,16.0,Web
+162,Valeria Perez,valeria.perezcorreo.com,932978158,1997-10-24,Piura,11/10/2025,233.31,1.0,Web
+36,Maria Martinez,maria.martinez@correo.com,987925434,1971-01-04,Trujillo,14/06/2025,3292.03,11.0,Telefono
+179,Rosa Ramirez,rosa.ramirez@correo.com,940181142,1974-05-23,trujillo,23/12/2022,2226.06,16.0,Tienda fisica
+176,Karen Ramirez,karen.ramirez@correo.com,924749927,1967-01-15, Lima,14/03/2023,1887.67,7.0,Telefono
+46,Paola Ortiz,paola.ortiz@correo.com,942111036,1972-08-03,,10/04/2026,1259.13,11.0,Web
+1,Gabriela Martinez,gabriela.martinez@correo.com,942868828,1969-03-24,LIMA,22/12/2021,4020.2,3.0,Telefono
+43,Monica Diaz,monica.diaz@correo.com,942747037,1964-11-23,Cuzco,25/02/2021,3513.97,8.0,App
+8,Jorge Rodriguez,jorge.rodriguez@correo.com,945935572,1959-04-19,trujillo,11/04/2026,2966.7,13.0,Telefono
+82,Lucia Cruz,lucia.cruz@correo.com,910344303,1973-12-10,trujillo,19/11/2025,2228.9,5.0,Telefono
+149,Carlos Morales,carlos.morales@correo.com,959304469,2006-09-09,chiclayo,24/07/2021,401.23,20.0,App
+150,Andres Flores,andres.flores@correo.com,920746667,1975-11-10,Trujillo,15/10/2023,3243.6,6.0,Telefono
+89,Valeria Cruz,valeria.cruz@correo.com,932814819,1966-02-20,Piura,20/11/2024,1121.69,,App
+71,Monica Flores,,919553585,1998-04-09,chiclayo,19/11/2026,3627.38,7.0,Telefono
+153,Manuel Gonzalez,manuel.gonzalez@correo.com,,1978-08-25,chiclayo,19/03/2021,2406.1,13.0,Tienda fisica
+177,Valeria Jimenez,valeria.jimenez@correo.com,918359252,2000-03-17,cusco,18/06/2022,4491.65,16.0,Telefono
+30,Jose Garcia,jose.garcia@correo.com,995511909,1971-03-24,Trujillo,18/12/2024,1953.21,1.0,Web
+108,Lucia Jimenez,lucia.jimenez@correo.com,961124122,1993-09-10,chiclayo,17/10/2024,1964.39,23.0,Web
+11,Valeria Torres,valeria.torres@correo.com,925374874,1998-09-25,Piura,25/11/2023,1563.78,10.0,Telefono
+173,Hector Jimenez,hector.jimenez@correo.com,962741471,1994-12-27,Trujillo,19/06/2023,2307.55,17.0,Telefono
+164,Diego Ramirez,,949920898,1984-02-23,chiclayo,06/08/2021,1899.52,15.0,App
+102,Jose Diaz,jose.diaz@correo.com,,1984-02-22,,21/11/2022,2707.3,,Web
+49,Andres Vargas,andres.vargas@correo.com,,1969-05-14,Piura,01/07/2024,1545.78,22.0,Telefono
+163,Jose Castillo,jose.castillo@correo.com,986790955,1981-10-21,Trujillo,16/11/2021,2477.82,21.0,Tienda fisica
+137,Karen Sanchez,karen.sanchez@correo.com,943554863,1958-11-16,Piura,18/02/2023,3215.73,17.0,Web
+155,Monica Reyes,monica.reyes@correo.com,948329479,1999-08-07,AREQUIPA,05/02/2021,2061.59,23.0,Telefono
+67,Luis Lopez,luis.lopez@correo.com,919943140,1991-11-22,Cuzco,05/03/2021,3659.58,10.0,Web
+42,Raul Flores,raul.flores@correo.com,929777514,1956-01-08,Arequipa,20/02/2024,2076.6,21.0,App
+160,Paola Gonzalez,paola.gonzalez@correo.com,917437386,1962-09-05,cusco,06/03/2023,1485.84,23.0,App
+12,Carlos Reyes,carlos.reyes@correo.com,,2003-03-17,LIMA,28/11/2021,1378.08,21.0,App
+80,Andres Cruz,andres.cruz@correo.com,925228493,1984-02-21,lima,16/12/2022,1348.78,23.0,Tienda fisica
+77,Karen Vargas,karen.vargas@correo.com,921819185,1975-05-11,Lima ,25/07/2021,3898.85,1.0,Telefono
+95,Victor Cruz,victor.cruz@correo.com,927738187,2005-09-12,Arequipa,17/05/2025,3745.6,,Telefono
+147,Sergio Sanchez,sergio.sanchez@correo.com,951617680,1987-07-27,LIMA,16/05/2025,212.96,21.0,App
+3,JORGE REYES,,,2003-03-23,piura,11/05/2024,741.88,25.0,Tienda fisica
+84,Jorge Cruz,jorge.cruzcorreo.com,973481797,2000-07-13,LIMA,26/11/2026,4414.64,16.0,Web
+124,Manuel Gonzalez,manuel.gonzalez@correo.com,933776150,2004-11-16,Chiclayo,25/10/2024,3431.45,15.0,Tienda fisica
+58,Manuel Vargas,manuel.vargas@correo.com,968461818,2001-10-09,Cuzco,28/04/2023,3746.75,3.0,Tienda fisica
+17,Ana Rodriguez,ana.rodriguez@correo.com,914216175,1976-02-17,Arequipa,09/11/2022,2210.09,18.0,App
+97,Ana Diaz,ana.diaz@correo.com,982017516,1962-08-12,LIMA,24/11/2026,1216.62,13.0,Tienda fisica
+86,Ana Morales,ana.morales@correo.com,993652460,1999-07-21,trujillo,28/06/2021,3842.92,18.0,Telefono
+83,Andres Morales,andres.morales@correo.com,984077101,2003-09-13,trujillo,11/04/2024,4414.45,8.0,Telefono
+87,Patricia Morales,patricia.morales@correo.com,992874006,1959-04-21,Piura,10/04/2026,3373.11,14.0,Web
+128,Elena Martinez,elena.martinez@correo.com,977719420,1996-03-02,Trujillo,23/08/2022,4459.89,17.0,App
+168,Ana Diaz,ana.diaz@correo.com,942310051,1968-10-12,piura,02/05/2021,2252.28,21.0,Telefono
+34,Carlos Martinez,carlos.martinez@correo.com,973174945,1969-04-27,Cusco,12/05/2024,3701.39,8.0,App
+119,Miguel Rivera,miguel.rivera@correo.com,976757928,2002-07-06,Lima,13/09/2022,3181.34,17.0,Tienda fisica
+88,Paola Martinez,paola.martinez@correo.com,950193656,1956-01-11,Cusco,10/06/2021,1718.04,5.0,App
+143,Monica Gonzalez,monica.gonzalez@correo.com,+51 91705758,1994-06-08,trujillo,14/03/2025,3006.45,3.0,Tienda fisica
+103,Sergio Rivera,sergio.rivera@correo.com,985776373,1968-02-27,Arequipa,07/10/2025,1010.98,8.0,Tienda fisica
+65,Jorge Gomez,jorge.gomez@correo.com,911898961,2000-09-05,arequipa,02/01/2023,2512.45,23.0,App
+180,Andres Torres,andres.torres@correo.com,+51 98421839,1998-09-13,Trujillo,27/06/2024,4298.01,,Tienda fisica
+15,Andres Perez,,938427073,1989-12-23,trujillo,23/05/2022,1825.52,22.0,Tienda fisica
+113,Cesar Vargas,cesar.vargas@correo.com,947388792,1991-04-26,Trujillo,28/09/2024,4386.73,20.0,Web
+170,Claudia Vargas,claudia.vargas@correo.com,+51 95302415,1973-02-13,arequipa,15/09/2025,1294.76,20.0,Web
+144,Ana Ortiz,ana.ortiz@correo.com,962405812,1985-01-21,Piura,12/05/2024,3375.56,12.0,Web
+51,Carmen Reyes,carmen.reyes@correo.com,944917589,1979-06-07,Arequipa,11/06/2024,3437.47,13.0,Tienda fisica
+111,Sergio Gonzalez,sergio.gonzalez@correo.com,988714010,1990-09-11,Piura,04/07/2026,1623.51,22.0,Telefono
+62,Jorge Diaz,jorge.diaz@correo.com,+51 99037616,1997-10-12,Chiclayo,18/09/2024,1579.72,24.0,Tienda fisica
+99,Gabriela Cruz,gabriela.cruz@correo.com,916086345,1957-05-16,,04/04/2021,3998.3,5.0,Telefono
+47,Carmen Gonzalez,carmen.gonzalez@correo.com,930509175,2000-04-03,arequipa,14/06/2024,-95.92,14.0,Web
+115,Ana Gonzalez,ana.gonzalez@correo.com,922315507,2002-09-07,Chiclayo,14/08/2024,1566.99,12.0,Tienda fisica
+116,Victor Rivera,victor.rivera@correo.com,917061037,1964-03-25,Piura,02/11/2025,413.04,15.0,Telefono
+109,Cesar Vargas,cesar.vargas@correo.com,967723010,1983-04-14,Chiclayo,27/08/2023,1824.35,24.0,Web
+35,Maria Sanchez,,,1959-05-12,Cuzco,17/07/2026,3073.86,18.0,Tienda fisica
+2,Jose Garcia,jose.garcia@correo.com,,1987-10-01,lima,07/12/2025,2941.99,18.0,Telefono
+73,Elena Martinez,elena.martinez@correo.com,950814428,1999-07-09,cusco,18/08/2025,1998.03,20.0,Web
+152,Maria Gonzalez,maria.gonzalez@correo.com,914670638,1963-02-08,piura,12/06/2026,1753.7,19.0,Web
+159,Karen Castillo,karen.castillo@correo.com,952550733,1996-02-15,lima,22/09/2024,S/ 422.58,25.0,App
+148,Miguel Gomez,miguel.gomez@correo.com,946670512,1962-06-14,LIMA,24/08/2024,4031.14,13.0,Tienda fisica
+25,Ricardo Castillo,ricardo.castillo@correo.com,944999379,1968-11-23,piura,08/05/2023,-96.05,22.0,Tienda fisica
+6,Cesar Martinez,cesar.martinez@correo.com,970855700,1995-06-06,Cuzco,12/04/2023,3032.28,23.0,Web
+133,Rosa Ramirez,rosa.ramirez@correo.com,920356922,1973-02-17,Arequipa,27/12/2025,3982.39,2.0,Tienda fisica
+145,Fernando Ramirez,fernando.ramirez@correo.com,988101741,2002-06-05,Chiclayo,12/09/2021,1556.54,21.0,App
+75,Claudia Rodriguez,claudia.rodriguez@correo.com,979654147,1996-08-09,arequipa,19/07/2022,2874.79,16.0,Web
+178,Patricia Perez,patricia.perez@correo.com,955946354,1989-06-22,cusco,22/11/2026,3626.25,9.0,Telefono
+53,Paola Garcia,paola.garcia@correo.com,912735359,1994-03-08,Arequipa,16/11/2022,559.03,7.0,Telefono
+100,Elena Gomez,elena.gomez@correo.com,988831486,2002-12-05,chiclayo,21/02/2024,3759.93,20.0,Telefono
+5,Andres Flores,andres.flores@correo.com,987490893,1899-05-20,chiclayo,22/04/2021,3490.15,3.0,App
+113,Cesar Vargas,cesar.vargas@correo.com,947388792,1991-04-26,Trujillo,28/09/2024,4386.73,20.0,Web
+36,Maria Martinez,maria.martinez@correo.com,987925434,1971-01-04,Trujillo,14/06/2025,3292.03,11.0,Telefono
+64,Rosa Sanchez,rosa.sanchez@correo.com,947111151,2001-10-25,chiclayo,20/05/2025,4413.27,7.0,Tienda fisica
+59,Diana Reyes,diana.reyes@correo.com,986483924,1994-11-13,arequipa,01/08/2023,3836.74,6.0,Telefono
+142,Miguel Martinez,miguel.martinez@correo.com,966348030,1995-10-15,lima,04/08/2021,2705.49,1.0,App
+105,Maria Gomez,maria.gomez@correo.com,953455870,1956-03-09,AREQUIPA,05/12/2021,1923.27,4.0,Web
+50,Victor Perez,victor.perez@correo.com,993517915,1989-01-13,Cusco,19/11/2025,170.6,21.0,Telefono
+26,ELENA RIVERA,elena.rivera@correo.com,971510041,1994-10-04,Lima,18/04/2021,2301.19,,Tienda fisica
+138,Miguel Lopez,miguel.lopez@correo.com,970306604,1987-03-27,arequipa,03/04/2024,3684.33,12.0,Web
+120,Ana Diaz,ana.diaz@correo.com,968548403,1956-08-03,Chiclayo,19/07/2023,2601.63,23.0,Telefono
+20,Rosa Sanchez,rosa.sanchez@correo.com,928814949,1982-03-09,piura,08/02/2024,2021.93,18.0,Web
+166,Jorge Reyes,jorge.reyes@correo.com,970343755,1970-03-04,LIMA,10/07/2021,3895.53,,App
+140,Sergio Gonzalez,sergio.gonzalez@correo.com,948504300,1985-12-27,Arequipa,25/12/2022,2137.54,20.0,Web
+130,Luis Vargas,luis.vargas@correo.com,948137561,1971-12-28,chiclayo,20/03/2026,1533.46,19.0,App
+19,Ricardo Cruz,ricardo.cruz@correo.com,917270733,1998-11-21,cusco,02/07/2021,3290.55,4.0,App
+13,Carmen Gomez,carmen.gomez@correo.com,981182864,1955-10-11,AREQUIPA,01/02/2024,4184.49,10.0,App
+121,Miguel Martinez,miguel.martinez@correo.com,953589647,1965-10-15,Cusco,12/02/2026,1993.37,4.0,App
+125,Cesar Rivera,cesar.rivera@correo.com,919165226,1985-08-21,arequipa,26/05/2023,2681.82,12.0,Web
+63,Fernando Reyes,fernando.reyes@correo.com,943742830,1969-02-24,trujillo,11/02/2022,3355.82,25.0,App
+129,Fernando Gomez,fernando.gomez@correo.com,964864099,2004-06-22,trujillo,02/11/2025,2930.51,3.0,Tienda fisica
+162,Valeria Perez,valeria.perez@correo.com,932978158,1997-10-24,Piura,11/10/2025,233.31,1.0,Web
+92,Claudia Flores,claudia.flores@correo.com,912944682,1997-07-09,chiclayo,19/11/2021,S/ 99.15,2.0,Telefono
+118,Valeria Flores,valeria.flores@correo.com,963051354,1993-01-01,lima,10/04/2022,3464.71,25.0,Tienda fisica
+41,Raul Sanchez,raul.sanchez@correo.com,932775593,1997-02-10,piura,22/11/2025,-227.45,3.0,App
+60,Rosa Gomez,rosa.gomez@correo.com,947535126,1993-12-09,trujillo,01/09/2025,4268.88,3.0,App
+117,Diego Jimenez,diego.jimenez@correo.com,946663833,1968-09-04,Cuzco,14/02/2023,1310.45,22.0,Telefono
+23,Rosa Rodriguez,rosa.rodriguez@correo.com,952091325,1958-01-19,Piura,17/09/2024,-79.92,17.0,Web
+66,Gabriela Morales,gabriela.morales@correo.com,987049595,1973-08-16,Lima,11/03/2024,4346.46,,Telefono
+126,Miguel Reyes,miguel.reyes@correo.com,917635653,1978-05-03,Cusco,28/02/2026,2786.79,17.0,Telefono
+151,Fernando Reyes,fernando.reyes@correo.com,992523968,1982-05-21,LIMA,03/11/2021,2886.93,12.0,App
+57,Cesar Cruz,cesar.cruz@correo.com,968186525,2031-01-15,Cusco,23/03/2024,1987.92,24.0,Tienda fisica
+100,Elena Gomez,elena.gomez@correo.com,988831486,2002-12-05,chiclayo,21/02/2024,3759.93,20.0,Telefono
+67,LUIS LOPEZ,luis.lopez@correo.com,919943140,1991-11-22,,05/03/2021,3659.58,10.0,Web
+93,Karen Flores,karen.flores@correo.com,957287718,1969-11-07,AREQUIPA,09/11/2025,3412.32,25.0,App
+127,Elena Castillo,elena.castillo@correo.com,970362235,2006-10-21,Piura,11/10/2022,2166.55,5.0,Web
