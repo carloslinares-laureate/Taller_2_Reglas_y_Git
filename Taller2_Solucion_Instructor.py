@@ -55,7 +55,7 @@ def explorar_datasets(clientes_df, pedidos_df):
 
 
 # ---------------------------------------------------------------------
-# Catálogo de reglas de negocio (ver Plantilla_Catalogo_Reglas_Negocio.xlsx)
+# Catálogo de reglas de negocio 
 # ---------------------------------------------------------------------
 
 def regla_email_valido(df):
